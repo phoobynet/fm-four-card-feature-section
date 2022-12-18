@@ -1,6 +1,7 @@
 @import '@/assets/styles/reset';
+@import '@/assets/styles/colors';
 
 body {
-  background-color: hsl(0deg 0% 95%);
+  background-color: $color-neutral-very-light-gray;
   font-family: Poppins, sans-serif;
 }
